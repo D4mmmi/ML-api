@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "861159117963",
+    "project_id": "limeproje",
+    "storage_bucket": "limeproje.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:861159117963:android:661963d277435581fdf08e",
+        "android_client_info": {
+          "package_name": "com.example.gasmon"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBU44-N6xIwwLYdLIWLdxMNS17Cey8lpyM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
